@@ -1,9 +1,8 @@
 # Animal Encyclopedia
-# JDK 1.5
-Animated Graphics supplemented with macromedia flash 5
-File descriptions:
-neco.mdb - database including image tags
-image.tar.gz - images
-clip.java - main program file
+Animated graphics supplemented with macromedia flash 5<br />
+File descriptions:<br />
+**neco.mdb** - database including image tags<br />
+**image.tar.gz** - images <br />
+**clip.java** - main program file <br />
 
 
